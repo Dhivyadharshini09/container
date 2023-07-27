@@ -46,10 +46,13 @@ container {
 }
 
 .word {
-    border: 1px solid #000000;
     display: inline-block;
     font-size: 25px;
-    color: #ff3385;
+    color: #ff3385;    
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    padding-left: 7vh;
+    padding-right: 7vh;
 }
 
 body {
