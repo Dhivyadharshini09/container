@@ -27,24 +27,6 @@ container {
     bottom: -15%;
 }
 
-.word-container {
-    display: inline-block;
-    border: 1px solid #000000;
-    padding: 1px;
-    margin: 1px;
-    text-align: center;
-}
-
-
-.dropped-character {
-    display: inline-block;
-    background-color: #ccc;
-    padding: 2px;
-    margin: 1px;
-    cursor: move;
-    font-size: 20px;
-}
-
 .word {
     display: inline-block;
     font-size: 25px;
