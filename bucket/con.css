@@ -1,5 +1,5 @@
 container {
-    padding: 5vw;
+    padding: 50px;
 }
 
 .rectangle {
@@ -7,6 +7,8 @@ container {
     height: 50vh;
     width: 50vh;
     position: relative;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .oval {
@@ -27,10 +29,11 @@ container {
     bottom: -15%;
 }
 
+
 .word {
     display: inline-block;
     font-size: 25px;
-    color: #ff3385;    
+    color: #ff3385;
     padding-top: 3vh;
     padding-bottom: 3vh;
     padding-left: 7vh;
